@@ -11,7 +11,7 @@ function App() {
       <header className="app-header">
         <div className="header-content">
           <div className="logo-icon">💰</div>
-          <h1>Expenly</h1>
+          <h1>Flow</h1>
         </div>
       </header>
       
